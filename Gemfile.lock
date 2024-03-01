@@ -27,7 +27,7 @@ GEM
     tapp (1.5.1)
       thor
     thor (1.0.1)
-    yard (0.9.24)
+    yard (0.9.36)
 
 PLATFORMS
   ruby
